@@ -15,8 +15,7 @@ What we are going to do is:
   3. Clean up and filter the data to narrow the scope to relevant words
   4. Build a simple frequency model.
   5. Analysing the article based on this model.
-## Installation
-first jupyter is opened (jupyter notebook --no-browser) then checked by _main().
+
 ## Usage
 <span><img alt='Mr Clean' src='https://storage.googleapis.com/qwasar-public/track-ds/token_visualization.png' width='900px'></span>
 
