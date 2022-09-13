@@ -1,4 +1,6 @@
 # Welcome to My Mr Clean
+<span><img alt='Mr Clean' src='https://azcdn.messenger.pgsitecore.com/en-us/-/media/mrclean/Images/BrandExperience/MetaImage/HomepageCleaningProductsSolutions.jpg?v=1-201710201128' width='900px'></span>
+
 ***
 
 ## Task
@@ -9,8 +11,8 @@ Through google. I did it by looking for a little help from others :)
 ## Installation
 first jupyter is opened (jupyter notebook --no-browser) then checked by _main().
 ## Usage
-<span><img alt='Mr Clean' src='https://azcdn.messenger.pgsitecore.com/en-us/-/media/mrclean/Images/BrandExperience/MetaImage/HomepageCleaningProductsSolutions.jpg?v=1-201710201128' width='900px'></span>
-_main()
+<span><img alt='Mr Clean' src='https://storage.googleapis.com/qwasar-public/track-ds/token_visualization.png' width='900px'></span>
+
 ### The Core Team
 
 
