@@ -7,7 +7,14 @@
 My problem was entering stop_words
 
 ## Description
-Through google. I did it by looking for a little help from others :)
+It was necessary to find the necessary solution by scraping the sites on the Internet and write the necessary program for the development of the site or business for this:
+What we are going to do is:
+
+  1. Get some article from Wikipedia to work with.
+  2. Extract meaningful and usable content from this article.
+  3. Clean up and filter the data to narrow the scope to relevant words
+  4. Build a simple frequency model.
+  5. Analysing the article based on this model.
 ## Installation
 first jupyter is opened (jupyter notebook --no-browser) then checked by _main().
 ## Usage
