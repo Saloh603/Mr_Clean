@@ -9,7 +9,7 @@ Through google. I did it by looking for a little help from others :)
 ## Installation
 first jupyter is opened (jupyter notebook --no-browser) then checked by _main().
 ## Usage
-<span><img alt='Mr Clean' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='900px'></span>
+<span><img alt='Mr Clean' src='[https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png](https://storage.googleapis.com/qwasar-public/track-ds/token_visualization.png)' width='900px'></span>
 _main()
 ### The Core Team
 
